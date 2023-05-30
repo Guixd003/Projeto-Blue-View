@@ -1,0 +1,13 @@
+@import url();
+footer {
+    background-color: rgb(51, 18, 196);
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    line-height: 80px;
+}
+h6 {
+    font-size: 1rem;
+    color: rgb(250, 250, 250);
+    font-family: "Noto Sans";
+}
